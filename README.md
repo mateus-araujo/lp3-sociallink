@@ -1,2 +1,2 @@
 # lp3-sociallink
-An introdutory Python Tutorial
+Um tutorial introdutório sobre Python
